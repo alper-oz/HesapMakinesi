@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesi", "HesapMakinesi\HesapMakinesi.csproj", "{7D67CA2A-CF3D-4F8D-91B9-65E1AAFDB8D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{EAC62355-7E9D-4CF4-BBCE-826981B76A03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7D67CA2A-CF3D-4F8D-91B9-65E1AAFDB8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D67CA2A-CF3D-4F8D-91B9-65E1AAFDB8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D67CA2A-CF3D-4F8D-91B9-65E1AAFDB8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC62355-7E9D-4CF4-BBCE-826981B76A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC62355-7E9D-4CF4-BBCE-826981B76A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC62355-7E9D-4CF4-BBCE-826981B76A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC62355-7E9D-4CF4-BBCE-826981B76A03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
